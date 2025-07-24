@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace TutorialProjects
+namespace OOP_Projects
 {
     class Program
     {
