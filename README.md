@@ -17,6 +17,6 @@ Think of it as a hands-on intro to file I/O, object-oriented programming, and ba
 
 ```text
 Bashar soufan is 21 years old and works in a remote job as a SWE.
-John Doe is 30 years old and works in a Office job as a SWE.
-Alice Smith is 28 years old and works in a Remote job as a SWE.
+Jadd Rajab is 20 years old and works in a Office job as a physiotherapist.
+Nasser AlTaweel is 28 years old and works in a Remote job as a Financer.
 
